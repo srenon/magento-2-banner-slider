@@ -53,6 +53,8 @@ class Save extends Banner
      * @var Image
      */
     protected $imageHelper;
+    
+    const ADMIN_RESOURCE = 'Mageplaza_BannerSlider::banner';
 
     /**
      * Save constructor.
